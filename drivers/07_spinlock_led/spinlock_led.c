@@ -1,3 +1,5 @@
+//测试app与led一样
+
 #include <linux/types.h>
 #include <linux/kernel.h>
 #include <linux/delay.h>
